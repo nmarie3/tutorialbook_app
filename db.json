@@ -1,3 +1,20 @@
 {
-    "books": []
+  "books": [
+    {
+      "title": "LOTR",
+      "id": 3
+    },
+    {
+      "title": "LOTR",
+      "id": 4
+    },
+    {
+      "title": "book",
+      "id": 5
+    },
+    {
+      "title": "this is a book",
+      "id": 6
+    }
+  ]
 }
